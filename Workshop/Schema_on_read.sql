@@ -66,3 +66,7 @@ where FILE_NM='uploads/output/2022/03/01/PUBFIN_Public_Energy_Investments_2000_2
 select * 
 from "DEMO_DB"."PUBLIC"."RESULT_VIEW"
 where COUNTRY='Costa Rica';
+
+
+// Assignment: 
+//1. Using Snowflake, AWS free account and the guide in Workshop/Schema_on_read.sql, create a pipeline that automatically loads data in one table in Snowflake, and build a view from one of the rows loaded. Hint: See video 
