@@ -10,7 +10,11 @@ Find the instructions in the "Workshop" folder and the data in the "Files" folde
 
 2. Using Snowsql and the guide in Workshop/Snowsql_load_semistructure_data.md, load a .json file from your local computer into snowflake. Hint: Use the "put" command
 
-3. Using Snowflake, AWS free account and the guide in Workshop/Schema_on_read.sql, create a pipeline that automatically loads data in one table in Snowflake, and build a view from one of the rows loaded. Hint: See video 
+3. Using Snowflake, AWS free account and the guide in Workshop/Schema_on_read.sql, create a pipeline that automatically loads data in one table in Snowflake, and build a view from one of the rows loaded. Hint: See video below
+
+Schema on read:
+
+https://youtu.be/qAUJ2-Z0Oks
 
 ## References:
 
